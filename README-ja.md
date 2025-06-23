@@ -135,20 +135,11 @@ click-game/
 - オンラインリーダーボード
 - カスタムテーマと色
 
-## 🤝 貢献
-
-貢献を歓迎します！プルリクエストをお気軽に送信してください。大きな変更については、まず議論するためにissueを開いてください。
-
 ## 🙏 謝辞
 
 - [Pygame](https://www.pygame.org/)で構築
 - クラシックな反応時間ゲームからインスピレーション
 - Pythonゲーミングコミュニティに感謝
-
-## 📞 連絡先
-
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
 
 ---
 

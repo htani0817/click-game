@@ -134,20 +134,11 @@ Potential features for future versions:
 - Online leaderboards
 - Custom themes and colors
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
 ## 🙏 Acknowledgments
 
 - Built with [Pygame](https://www.pygame.org/)
 - Inspired by classic reaction time games
 - Thanks to the Python gaming community
-
-## 📞 Contact
-
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
 
 ---
 
